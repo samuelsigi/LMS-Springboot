@@ -1,0 +1,5 @@
+package com.orel.repository;
+
+public interface BookRepository {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.orel.models&apos; to &apos;com.orel.model&apos;&#x0D;&#x0A;- Original project: &apos;LMSv2024&apos;&#x0D;&#x0A;- Original element: &apos;LMSv2024/src/main/java/com.orel.models&apos;&#x0D;&#x0A;- Renamed element: &apos;LMSv2024/src/main/java/com.orel.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.orel.models&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.orel.models" name="com.orel.model" qualified="false" references="true" stamp="1733467662798" textual="false" version="1.0"/>
+</session>

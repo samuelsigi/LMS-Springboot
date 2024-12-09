@@ -1,0 +1,5 @@
+package com.orel.service;
+
+public class AuthorService {
+
+}
